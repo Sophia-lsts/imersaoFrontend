@@ -3,7 +3,7 @@
     bottom: 0;
     left: 0;
     right: 0;
-    background: linear-gradient(to right, #ae2896, #509bf5);
+    background: linear-gradient(to right, hsl(304, 85%, 39%), hsl(292, 100%, 25%));
     padding: 15px 40px;
     display: flex;
     justify-content: space-between;
@@ -16,7 +16,9 @@
     text-transform: uppercase;
     font-weight: 400;
     font-size: 12px;
+    font-family: "DM Sans", sans-serif;
     margin-bottom: 10px;
+    margin-top: 7px;
 }
 
 .disclaimer-premium .disclaimer-premium__subtitle {

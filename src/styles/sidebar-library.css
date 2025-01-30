@@ -5,7 +5,7 @@
     display: flex;
     justify-content: space-between;
     flex-direction: column;
-    padding: 4px 8px;
+    padding: 16px 12px;
     color: #b3b3b3;
     font-weight: 600;
     font-size: 14px;
@@ -17,6 +17,8 @@
 
     display: flex;
     justify-content: space-between;
+    margin-top: 0px;
+    padding: 0px 0px 10px 0px;
 
 }
 
@@ -120,7 +122,7 @@
 
 .sidebar .cookies {
 
-    margin: 25px 20px;
+    margin: 20px 20px;
 
 }
 
