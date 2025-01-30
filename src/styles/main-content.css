@@ -1,5 +1,11 @@
 /* HEADER */
 
+.hidden {
+
+    display:none;
+
+}
+
 .main-container {
 
     max-width: 80vw;
