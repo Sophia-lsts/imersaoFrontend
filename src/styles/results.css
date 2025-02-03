@@ -1,0 +1,21 @@
+.artist-card__searched {
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block; 
+    text-align: center; 
+    width: 50%;
+}
+
+.artist-name__searched {
+    font-size: 1.2em;
+    color: #fff;
+}
+
+.artist-img__searched {
+    width: 100px; 
+    height: auto; 
+    border-radius: 4px; 
+}
+
