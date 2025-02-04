@@ -5,6 +5,8 @@
 
     /* COLORS */
     --bg-icon: #131313;
-    --bg-arrow-color: rgba(0,0,07);
+    --bg-arrow-color: rgba(0,0,07); 
+    --darkPurple: hsl(280, 100%, 25%);
+    --purple: hsl(292, 100%, 25%);
 
 }

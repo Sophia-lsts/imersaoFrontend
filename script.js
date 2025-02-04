@@ -57,3 +57,9 @@ document.addEventListener('input', function () {
     
     requestApi(searchTerm);
 });
+
+document.querySelectorAll('.artist-card__searched').forEach(card => {
+    card.addEventListener('click', () => {
+        console.log(card.querySelector('.artist-name__searched').innerText);
+    });
+});
