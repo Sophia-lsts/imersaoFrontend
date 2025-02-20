@@ -24,7 +24,7 @@ Como os dois forem feitos durante a Imersão, optei por separar e deixar os dois
 
 - **JS:** Acessar a pasta _Api-artists_ que está em _spotify-js_,utilizar o comando <code>json-server --watch artists.json --port 3000</code> e abrir o código HTML no navegador que já poderá ter acesso.
 
-- **React:** Acessando a pasta _spotify-react_ você irá usar o comando <code>npm install react react-dom</code> para instalar Reacte React DOM e logo após abrir o projeto com <code>npm start</code>.
+- **React:** Acessando a pasta _spotify-react_ você irá usar o comando <code>npm install react react-dom</code> para instalar React e React DOM e logo após abrir o projeto com <code>npm start</code>.
 
 ## <p align="center">Página:</p>
 
